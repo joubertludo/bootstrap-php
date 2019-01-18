@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+
+#h1 {
+	font-family: 'Coiny', cursive;
+}
+
+#h2 {
+	font-family: 'Coiny', cursive;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+section {
+	margin-bottom: 60px;
+}
+h3 {
+    padding-bottom: 50px;
+	padding-top: 50px;
+	font-family: 'Coiny', cursive;
+
+}
+p{
+font-family: 'Coiny', cursive;	
+}
